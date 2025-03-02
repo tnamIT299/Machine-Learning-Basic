@@ -11,5 +11,5 @@ Sau khi xây dựng mô hình, nhóm kết luận rằng đối với vấn đ�
 ## So sánh
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="Compare 7 models.png" width="500" style="margin-right: 20px;" />
+  <img src="Compare 7 models.png" width="800" height="400" style="margin-right: 20px;" />
 </div>
